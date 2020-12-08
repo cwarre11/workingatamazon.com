@@ -1,23 +1,30 @@
 body {
-  margin: 30px;
-  font-family: courier;
-  background-color: #FFE6EE;
-  color: #808080;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: courier;
+	background-image: url(http://students.cpcc.edu/~cwarre11/WEB110/workingatamazon.com/images/backgroundimg.jpg);
+	color: #808080;
 }
+#wrapper {
+	background-color: #FFE6EE;
+}
+
 h1 {
 	margin-top: -200px;
-	margin-left: 400px;
-	margin-right: 400px;
-	background-color: #FFB6C1;
+	margin-left: 250px;
+	margin-right: 250px;
 	color: #808080;
 	padding-top: 20px;
     padding-bottom: 20px;
 	text-align: center;
+	font-family: 'Droid serif', serif;
+	font-style: italic;
+	font-size: 55px;
 }
 h2 {
 	color: #808080;
 	text-align: center;
-	font-size: 50px;
+	font-size: 40px;
 	margin-top: 0px;
 	margin-bottom: -10px;
 }
@@ -58,14 +65,14 @@ nav {
 	justify-content: center;
 	justify-content: space-between;
 	margin: auto;
-	width: 80%;
+	width: 90%;
 	padding-bottom: 20px;
 }
 aside {
 	text-align: left;
-	margin-top: -100px;
+	margin-top: -70px;
 	margin-bottom: -100px;
-	width: 50%;
+	width: 50px;
 	height: auto;
 }
 fieldset {
