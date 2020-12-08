@@ -45,11 +45,11 @@ main {
 	border-color: gray;
 	border-width: 1px;
 	width: 80%;
-	text-align: center;
+	text-align: left;
 	margin: auto;
 }
 main p {
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
 }
 ul {
@@ -80,9 +80,6 @@ fieldset {
 	width: 90%;
 }
 
-p {
-	text-align: center;
-}
 footer {
 	text-align: center;
 }
