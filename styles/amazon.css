@@ -3,17 +3,17 @@ body {
 	margin-right: 150px;
 	font-family: courier;
 	background-image: url(http://students.cpcc.edu/~cwarre11/WEB110/workingatamazon.com/images/backgroundimg.jpg);
-	color: #808080;
+	color: #696969;
 }
 #wrapper {
-	background-color: #FFE6EE;
+	background-color: #ffe9ec ;
 }
 
 h1 {
 	margin-top: -200px;
 	margin-left: 250px;
 	margin-right: 250px;
-	color: #808080;
+	color: #696969;
 	padding-top: 20px;
     padding-bottom: 20px;
 	text-align: center;
@@ -47,6 +47,7 @@ main {
 	width: 80%;
 	text-align: center;
 	margin: auto;
+	padding: 5px;
 }
 main p {
 	text-align: left;
@@ -59,7 +60,7 @@ ul {
 
 nav {
 	text-align: center;
-	color: #808080;
+	color: #696969;
 	font-size: 20px;
 	display: flex;
 	justify-content: center;
