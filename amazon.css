@@ -1,0 +1,124 @@
+body {
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: courier;
+	background-image: url(http://students.cpcc.edu/~cwarre11/WEB110/workingatamazon.com/images/backgroundimg.jpg);
+	color: #696969;
+}
+#wrapper {
+	background-color: #ffe9ec ;
+}
+
+h1 {
+	margin-top: -180px;
+	margin-left: 230px;
+	margin-right: 230px;
+	color: #696969;
+	padding-top: 20px;
+    padding-bottom: 20px;
+	text-align: center;
+	font-family: 'Droid serif', serif;
+	font-style: italic;
+	font-size: 55px;
+}
+h2 {
+	color: #808080;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 0px;
+	margin-bottom: -10px;
+}
+h3 {
+	color: #808080;
+	text-align: center;
+	font-size: 30px;
+}
+
+main img {
+	width: 45%;
+	height: auto;
+	text-align: center;
+}
+main {
+	border-style: solid;
+	border-radius: 20px;
+	border-color: gray;
+	border-width: 1px;
+	width: 80%;
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+}
+main p {
+	text-align: left;
+	font-size: 20px;
+}
+ul {
+	font-size: 18px;
+	text-align: left;
+}
+
+nav {
+	text-align: center;
+	color: #696969;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+	margin: auto;
+	width: 90%;
+	padding-bottom: 20px;
+}
+aside {
+	text-align: left;
+	margin-top: -70px;
+	margin-bottom: -100px;
+	width: 50px;
+	height: auto;
+}
+fieldset {
+	font-size: 20px;
+	width: 90%;
+}
+
+footer {
+	text-align: center;
+}
+footer img {
+	width: 88px;
+	height: auto;
+}
+th, td {
+	border: 1px solid black;
+}
+th {
+	font-weight: bold;
+	font-size: 25px;
+}
+td {
+	font-size: 20px;
+}
+table {
+	border: 3px solid black;
+	margin: auto;
+	width: 90%;
+	margin-top: 20px;
+}
+address {
+	font-size: 20px;
+}
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: gray;
+}
+
+a:hover {
+  color: gray;
+}
+
+a:active {
+  color: white;
+}
